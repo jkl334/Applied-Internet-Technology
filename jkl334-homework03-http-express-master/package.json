@@ -1,0 +1,22 @@
+{
+  "name": "jkl334-homework03-http-express",
+  "version": "0.0.0",
+  "description": "",
+  "main": "demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nyu-csci-ua-0480-002-fall-2014/jkl334-homework03-http-express.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/nyu-csci-ua-0480-002-fall-2014/jkl334-homework03-http-express/issues"
+  },
+  "dependencies": {
+    "express": "~4.9.5",
+    "express3-handlebars": "~0.5.2"
+  }
+}
