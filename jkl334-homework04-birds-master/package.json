@@ -1,0 +1,27 @@
+{
+  "name": "jkl334-homework04-birds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.9.0",
+    "express": "^4.9.7",
+    "express-handlebars": "^1.1.0",
+    "express-session": "^1.8.2",
+    "express3-handlebars": "^0.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nyu-csci-ua-0480-002-fall-2014/jkl334-homework04-birds.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nyu-csci-ua-0480-002-fall-2014/jkl334-homework04-birds/issues"
+  },
+  "homepage": "https://github.com/nyu-csci-ua-0480-002-fall-2014/jkl334-homework04-birds"
+}

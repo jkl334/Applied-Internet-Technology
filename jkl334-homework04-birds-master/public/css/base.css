@@ -1,0 +1,39 @@
+html { background-color: #000; }
+
+body {
+    background-color: #FFF;
+    font-size: 1.5em;
+    text-align: center;
+    margin-right: 25%   ;
+    margin-left: 25%;
+
+}
+
+h1 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    text-align:center;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+    
+
+ul{
+    text-align: center;
+    display:inline-block;
+    *display:inline;
+}
+
+li{
+    text-align: left;
+}
+
